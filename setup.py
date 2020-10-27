@@ -32,7 +32,7 @@ setup(
     zip_safe=False,
     install_requires=[
         'pyasn1==0.4.5',
-        'cryptography==2.6.1',
+        'cryptography==3.2',
         'bitarray==0.8.3',
         'pyOpenSSL==19.0.0',
         'future',
